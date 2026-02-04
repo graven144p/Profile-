@@ -1,4 +1,4 @@
-Nuclear Energy Enthusiast | SMR Advocate | Space & Technology| Linux
+Nuclear Energy Enthusiast | SMR Advocate | Space & Technology | Linux
 
 
 

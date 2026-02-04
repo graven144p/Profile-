@@ -1,4 +1,4 @@
-Nuclear Energy rEnthusiast | SMR Advocate | Space & Technology
+Nuclear Energy Enthusiast | SMR Advocate | Space & Technology
 
 
 

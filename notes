@@ -249,8 +249,3 @@ This approach keeps safety-critical operations on FPGA/RTOS while enabling fleet
 Open-source Linux could give next-generation SMRs the operational agility and performance they need—lightweight, fast, and fully under NuScale’s control.
 
 Automate routine tasks using cron or systemd timers for scheduled analytics, reporting, and maintenance checks—ensuring timely insights with minimal overhead
-
-
-
-
-https://github.com/graven144p/Small-Modular-Reactors-and-Combined-Heat-n-Power-Case-Study

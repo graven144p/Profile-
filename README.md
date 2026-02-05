@@ -6,11 +6,20 @@ Former background in Linux systems and security research, now focused on the saf
 
 
 
+
+
+
 Resources
 https://github.com/graven144p/Resources
 
 Notes
 https://github.com/graven144p/Profile-/blob/main/notes
+
+
+
+
+
+
 
 
 

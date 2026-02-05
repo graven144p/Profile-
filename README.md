@@ -1,5 +1,6 @@
-Nuclear Energy Enthusiast | SMR Advocate | Space & Technology | Linux | 
-GreyHat
+Nuclear Energy Enthusiast | SMR Advocate | Space & Technology | Linux 
+
+Former background in Linux systems and security research, now focused on the safety and resilience of advanced energy technologies
 
 
 
